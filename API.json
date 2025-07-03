@@ -1,0 +1,22 @@
+{
+    "CV": {
+        "Nom": "DEPREZ",
+        "Prenom": "Tom",
+        "Age": null,
+        "formations": [
+            {
+                "nom": "développeur",
+                "ecole": "",
+                "dateDebut": "10-10-2015",
+                "dateFin": "10-10-2015",
+                "img": "http://10.21.6.31:81/image.png"
+            },
+            {
+                "nom": "développeur",
+                "ecole": "",
+                "dateDebut": "10-10-2015",
+                "dateFin": "10-10-2015"
+            }
+        ]
+    }
+}
